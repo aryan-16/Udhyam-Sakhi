@@ -147,7 +147,8 @@ class AddProductActivity : AppCompatActivity() {
                     .addOnSuccessListener {
                         runOnUiThread {
                             Toast.makeText(this, "Product added successfully!", Toast.LENGTH_SHORT).show()
-                            finish()
+                            val i = Intent(this , SellerHomeActivity::class.java)
+                            startActivity(i)
                         }
                     }
                     .addOnFailureListener { e ->
