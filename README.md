@@ -71,16 +71,16 @@ Existing platforms like Amazon, Shopify, or social media selling are too complex
 
 Here are some screenshots of the app:
 
-- **Page 1**: ![Page1](./page1.png)
-- **Page 2**: ![Page2](./page2.png)
-- **Page 3**: ![Page3](./page3.png)
-- **Page 4**: ![Page4](./page4.png)
+- **Page 1**: ![Page1](./page1.jpg)
+- **Page 2**: ![Page2](./page2.jpg)
+- **Page 3**: ![Page3](./page3.jpg)
+- **Page 4**: ![Page4](./page4.jpg)
 
 **WhatsApp Screenshots**:
 
-- **WSP 1**: ![WSP1](./wsp1.png)
-- **WSP 2**: ![WSP2](./wsp2.png)
-- **WSP 3**: ![WSP3](./wsp3.png)
+- **WSP 1**: ![WSP1](./wsp1.jpg)
+- **WSP 2**: ![WSP2](./wsp2.jpg)
+- **WSP 3**: ![WSP3](./wsp3.jpg)
 
 ---
 
